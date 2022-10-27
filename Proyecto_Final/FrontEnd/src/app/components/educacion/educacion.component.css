@@ -1,0 +1,51 @@
+.row{
+  padding: 40px;
+}
+
+div{
+  background: #ffead3;;
+  /*border-radius: 40px;
+  -webkit-border-radius: 40px;
+  -moz-border-radius: 40px;
+  -ms-border-radius: 40px;
+  -o-border-radius: 40px;*/
+}
+
+h1, h3{
+  display: inline;
+}
+
+
+.titulo, h3{
+  color: maroon;
+  font-weight: bold;
+}
+
+.descripcion{
+  font-style: italic;
+}
+
+.tituloseccion{
+  color: #663e3c; /*rgb(48, 47, 47);*/
+  font-size: 2em;
+}
+
+.titulo{
+  font-size: large;
+}
+
+h3{
+  font-size: small;
+}
+
+/*
+.tituloseccion{
+  color: #663e3c;
+  font-size: 1.5em;
+}*/
+
+p{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+

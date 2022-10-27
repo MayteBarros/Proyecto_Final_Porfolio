@@ -1,0 +1,28 @@
+.row{
+  padding: 40px;
+  background: #ffead3;
+ }
+
+
+div{
+  background: #ffead3;
+}
+
+/*
+.tituloseccion{
+  color: #663e3c;
+  font-size: 1.5em;
+}*/
+
+
+
+.tituloseccion{
+  color: #663e3c; /*rgb(48, 47, 47);*/
+  font-size: 2em;
+}
+
+.circulo{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

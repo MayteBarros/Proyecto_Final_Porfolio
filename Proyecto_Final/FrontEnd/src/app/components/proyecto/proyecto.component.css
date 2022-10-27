@@ -1,0 +1,39 @@
+.row{
+  padding: 40px;
+}
+
+div{
+  background: #ffead3;
+}
+
+.contenedor{
+  width: auto;
+}
+
+.textoproyecto, .imagenproyecto{
+  display: inline-block;
+  text-align: justify;
+}
+
+.titulo, h3{
+  color: maroon;
+  font-weight: bold;
+}
+
+.tituloseccion{
+  color: #663e3c; /*rgb(48, 47, 47);*/
+  font-size: 2em;
+}
+
+.titulo{
+  font-size: large;
+}
+
+h3{
+  font-size: small;
+}
+
+
+p{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
