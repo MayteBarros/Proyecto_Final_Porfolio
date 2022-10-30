@@ -1,3 +1,9 @@
  URL del Repo GitHub del Front End: https://github.com/MayteBarros/Proyecto_Final/tree/master/Proyecto_Final/FrontEnd
 
 URL del Repo GitHub del Back End: 
+https://github.com/MayteBarros/Proyecto_Final_Porfolio/tree/master/Proyecto_Final/BackEnd/MTB
+
+URL Portfolio Front End (Firebase):
+https://frontendmtb.web.app/
+
+URL de APIs Back End (HEROKU): https://git.heroku.com/backendmtb.git
